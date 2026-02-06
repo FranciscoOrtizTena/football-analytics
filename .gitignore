@@ -210,3 +210,4 @@ __marimo__/
 02_Exploratory_Data_Analysis/data/
 03_Simple_Linear_Regression/data/
 04_Multiple_Regression/data/
+tests/schedule_features_2016_2025.parquet
